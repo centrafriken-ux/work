@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#0B1220</color>
+    <color name="bg_light">#F6F7FB</color>
+    <color name="break_green">#2ECC71</color>
+    <color name="work_red">#FF4D5E</color>
+    <string name="app_name">Work&amp;Rest Balance</string>
+    <style name="Theme.WorkRestBalance" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>
